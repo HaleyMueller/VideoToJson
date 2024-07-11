@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoToJson", "fTest\VideoToJson.csproj", "{AE31B661-1018-4B51-860C-0D6EFB599114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE31B661-1018-4B51-860C-0D6EFB599114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE31B661-1018-4B51-860C-0D6EFB599114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE31B661-1018-4B51-860C-0D6EFB599114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE31B661-1018-4B51-860C-0D6EFB599114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E162A9-2C6A-423B-9B69-FB8E5F2A0B26}
+	EndGlobalSection
+EndGlobal
