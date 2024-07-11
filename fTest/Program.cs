@@ -9,7 +9,7 @@ namespace fTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            ExtractFrames(@"C:\Users\Mark\source\repos\OpenGL\OpenGL.App\bin\Debug\net8.0\Resources\Videos\badapple.mp4");
+            ExtractFrames(@"badapple.mp4");
         }
 
         static double scaleFactor = 0.35;
